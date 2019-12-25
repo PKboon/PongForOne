@@ -1,5 +1,5 @@
 # PongForOne
-### Pong for one
+### Pong for one (JavaFX)
 
 * Has 20 turns
 * Every 2 missed connections, the paddle grows
